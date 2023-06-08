@@ -1,1 +1,4 @@
-node_modules/
+[Nn]ode_modules/
+[Zz]*
+*.env
+/[Aa]rtifacts
